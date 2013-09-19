@@ -3,6 +3,8 @@
 #include "loadSaveImage.h"
 #include <thrust/extrema.h>
 
+//Newton's version
+
 //chroma-LogLuminance Space
 static float *d_x__;
 static float *d_y__;
